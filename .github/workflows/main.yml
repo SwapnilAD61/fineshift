@@ -1,0 +1,8 @@
+name: actions
+on:
+  push:
+    branches:
+      - main
+jobs:
+   runs-on: ubuntu lateast
+       build:
